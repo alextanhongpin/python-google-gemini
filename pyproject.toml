@@ -11,6 +11,8 @@ jupyterlab = "^4.0.9"
 google-generativeai = "^0.3.1"
 pillow = "^10.1.0"
 llama-index = "^0.9.15.post2"
+ipywidgets = "^8.1.1"
+requests = "^2.31.0"
 
 
 [build-system]
